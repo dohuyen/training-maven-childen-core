@@ -11,6 +11,7 @@ public class MathUtils {
 		boolean result2 = StringUtils.isNumeric(text2);
 
 		System.out.println(text1 + " is a numeric ? " + "\n" + result1);
+		System.out.println("-----------------------------------------");
 		System.out.println(text2 + " is a numeric ? " + "\n" + result2);
 
 	}
